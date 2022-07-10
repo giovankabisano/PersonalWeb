@@ -1,34 +1,40 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align="center">
+  <h1>theodorusclarence.com</h1>
+  <p>💠 Personal website and blog made using Next.js, TypeScript, Tailwind CSS, MDX Bundler, FaunaDB, and SWR.</p>
+</div>
 
-## Getting Started
+## Contributing & Project Setup
 
-First, run the development server:
+If you are interested in contributing or running this project on your local machine, please check the [contributing guide](CONTRIBUTING.md)
 
-```bashs
-npm run dev
-# or
-yarn dev
-```
+## Notable Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This website was first initialized in January 2021, went through numerous changes and refactors, resulted to some notable features
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+### Dedicated Project Page
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+Each project is descriptively explained provided with my learnings.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+![image](https://user-images.githubusercontent.com/55318172/132983591-63e495f1-fc5a-48d0-9e0a-ef3dddba6cad.png)
 
-## Learn More
+### Blogs & Library
 
-To learn more about Next.js, take a look at the following resources:
+I write to teach people how to rebuild and redefine fundamental concepts through mental models.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+https://user-images.githubusercontent.com/55318172/132983558-55adf0a2-3ce5-43b2-8718-09fd1567e43f.mov
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Lazy Blur Loader
 
-## Deploy on Vercel
+Images are hosted on Cloudinary
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+https://user-images.githubusercontent.com/55318172/132983757-135138db-6907-4951-a98f-e2a75c16fa01.mov
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Love Button Interaction
+
+https://user-images.githubusercontent.com/55318172/132983796-9187857f-bbf2-4bb0-80ac-59cc1c4f3e87.mov
+
+### Spotify Now Playing
+
+Check out the [tutorial](https://theodorusclarence.com/blog/spotify-now-playing).
+
+![image](https://user-images.githubusercontent.com/55318172/132983710-000cc6c8-a466-4314-ad3f-656d9dc1a1e4.png)
