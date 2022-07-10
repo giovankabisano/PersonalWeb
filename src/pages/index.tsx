@@ -135,7 +135,7 @@ export default function IndexPage({
               </UnstyledLink> */}
             </div>
           </article>
-          <UnstyledLink
+          {/* <UnstyledLink
             href='#intro'
             className={clsx(
               'absolute bottom-2 left-1/2 -translate-x-1/2 md:bottom-10',
@@ -152,7 +152,7 @@ export default function IndexPage({
               'w-[calc(100%-3rem)] md:w-[600px] 2xl:w-[900px]',
               'z-[-1] opacity-70 dark:opacity-30'
             )}
-          />
+          /> */}
         </section>
 
         {/* <InView triggerOnce rootMargin='-40% 0px'>
