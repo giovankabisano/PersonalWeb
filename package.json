@@ -16,7 +16,6 @@
     "cy:headless": "cypress run",
     "release": "standard-version",
     "push-release": "git push --follow-tags origin main",
-    "postbuild": "next-sitemap",
     "mdgen": "node scripts/cross-post.js",
     "prepare": "husky install"
   },
@@ -76,7 +75,6 @@
     "local-cypress": "^1.2.5",
     "mdx-bundler": "^6.0.3",
     "next-remote-watch": "^1.0.0",
-    "next-sitemap": "^1.9.12",
     "postcss": "^8.4.14",
     "prettier": "^2.6.2",
     "prettier-plugin-tailwindcss": "^0.1.11",
